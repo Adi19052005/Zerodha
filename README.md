@@ -16,10 +16,10 @@ A web-based Zerodha trading platform clone built to simulate core functionalitie
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript (React optional if you’ve used it)
+Frontend: HTML, CSS, JavaScript (React)
 
-Backend: Node.js / Express (if applicable)
+Backend: Node.js / Express 
 
-Database: MongoDB / MySQL (if used)
+Database: MongoDB / MySQL 
 
 API: Stock market mock API or JSON data
